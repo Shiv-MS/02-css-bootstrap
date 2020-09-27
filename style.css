@@ -31,6 +31,7 @@ body {
 
 .card-img-top{
     height: 15rem;
+    margin-top: 1rem;
 }
 
 .git-style {
@@ -44,6 +45,5 @@ body {
 }
 
 .my-button {
-    text-align: center;
     margin-bottom: 1rem;
 }

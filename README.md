@@ -15,5 +15,5 @@ This repository ("`02-css-bootstrap`") is where my portfolio resides [Shivam's P
 
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="Shivam Shewa's Portfolio Image" src="img/readme.png">
 </p>
