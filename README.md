@@ -12,8 +12,14 @@ This repository ("`02-css-bootstrap`") is where my portfolio resides [Shivam's P
 * Mobile-first design
 
 
+## Shivam Shewa's Portfolio
 
-
+#### Desktop Image of Homepage
 <p align="center">
   <img alt="Shivam Shewa's Portfolio Image" src="img/readme.png">
+</p>
+
+#### Mobile Image of responsive Portfolio page
+<p align="center">
+  <img alt="Shivam Shewa's Portfolio Image" src="img/readme_mobile.png">
 </p>

@@ -1,49 +1,62 @@
+/* Controls main container on all pages */
 main {
     margin: 10rem 5rem;
 }
 
+/* Background image for all pages */
 body {
     background-image: url(img/background.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
+/* Styles Paragraph on index.html */
 .paragraph-style {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
 
+
+/* Styles which effect card elements */
 .card {
     margin: 1rem 1rem 1rem 1rem;
-}
-
-.home-card-style {
-    margin: 3rem 0;
 }
 
 .card-header {
     margin: 1rem 1rem;
 }
 
-.radius-style {
-    border-radius: 50px !important;
-}
 
 .card-img-top{
     height: 15rem;
     margin-top: 1rem;
 }
+/* End styles which effect card elements */
 
+
+/* Adds styling for content on index.html */
+.home-style {
+    margin: 3rem 0;
+}
+
+/* Controls Radius of all elements */
+.radius-style {
+    border-radius: 50px !important;
+}
+
+/* Controls Git Icon Style */
 .git-style {
     font-size: 2rem;
     color: #fff;
 }
 
+/* Controls Linkedin Icon Style */
 .linkedin-style {
     font-size: 2rem;
     color: #0e76a8;
 }
 
+/* Controls Form button on contact.html */
 .my-button {
     margin-bottom: 1rem;
 }
