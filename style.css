@@ -39,10 +39,16 @@ body {
     margin: 3rem 0;
 }
 
-/* Controls Radius of all elements */
+/* Styles which controls Radius */
 .radius-style {
     border-radius: 50px !important;
 }
+
+.radius-style-portfolio-image {
+    border-radius: 25px;
+}
+/* End of styles which controls Radius */
+
 
 /* Controls Git Icon Style */
 .git-style {
